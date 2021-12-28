@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about web-APIs
 - 💞️ I’m looking to a job on django web framework
 - 📫 How to reach me nemachandragoswami0099@gmail.com
-- 👩‍💻 LinkedIn: linkedin.com/in/nema-chandra-goswami
+- 👩‍💻 LinkedIn: https://linkedin.com/in/nema-chandra-goswami
 - 🎏 hosted project: https://epicblogging.herokuapp.com/
 
 <!---
