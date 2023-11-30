@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nym-Git
-- 👀 I’m interested into developing webproject and adding new features etc 
-- 🌱 I’m currently learning about web-APIs
-- 💞️ I’m looking to a job on django web framework
+- 👀 I’m interested in developing a project and adding new features etc 
+- 🌱 I’m currently learning about Flutter
+- 💞️ I’m looking for a job on the Django web framework
 - 📫 How to reach me nemagoswami00@gmail.com
 - 👩‍💻 LinkedIn: https://linkedin.com/in/nema-chandra-goswami
 - 🎏 hosted project: https://epicblogging.herokuapp.com/
