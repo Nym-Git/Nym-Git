@@ -94,14 +94,6 @@
 <li>Insurance broking platform 2023 — The challenging journey</li>
 <li>My Hacktoberfest 2020 Journey — Reflection</li>
 
-</ul>
-
-<hr style="border-color:#30363d">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
-
 </p>
 
 </div>
