@@ -48,11 +48,11 @@
 <!-- Links -->
 <div>
 
-<a href="https://nemagoswami.com/" target="_blank">
+<a href="https://nemagoswami.com/" target="blank">
 <img src="https://img.shields.io/badge/My Portfolio-black?style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com/in/nema-chandra-goswami/" target="_blank">
+<a href="https://www.linkedin.com/in/nema-chandra-goswami/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -60,11 +60,11 @@
 <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=devdotto">
 </a>
 
-<a href="https://leetcode.com/u/Nym-Git/" target="_blank">
+<a href="https://leetcode.com/u/Nym-Git/" target="blank">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
-<a href="https://x.com/ChandraNem10246" target="_blank">
+<a href="https://x.com/ChandraNem10246" target="blank">
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
 </a>
 
