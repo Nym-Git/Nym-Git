@@ -62,10 +62,11 @@
 <h2>About me</h2>
 
 <ul>
-<li>Studies Computer Science at University of Nueva Caceres</li>
-<li>Loves Open Source, GSSOC, SWOC, and Hacktoberfest</li>
-<li>Occasionally writes blogs</li>
-<li>Hobbies: reading, calisthenics, music</li>
+<li>Backend Developer focused on Python, Django, and scalable APIs</li>
+<li>Experienced with Redis, Celery, and microservices architecture</li>
+<li>Working with PostgreSQL, MySQL, and distributed systems</li>
+<li>Deploying applications using Docker, Kubernetes, and AWS</li>
+<li>Passionate about building reliable backend systems and improving performance</li>
 </ul>
 
 <hr style="border-color:#30363d">
