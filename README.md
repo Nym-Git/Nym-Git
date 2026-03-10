@@ -89,10 +89,26 @@
 <h2>Latest Blog Posts</h2>
 
 <ul>
+<li>
+Insuranceefficient Award 2026 — Grateful for moments, work is making an impact
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7435677875137069057/" style="margin-left:6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16">
+</a>
+</li>
 
-<li>Insuranceefficient award 2026 — Grateful for moments, work is making an impact</li>
-<li>Insurance broking platform 2023 — The challenging journey</li>
-<li>My Hacktoberfest 2020 Journey — Reflection</li>
+<li>
+Insurance broking platform 2023 — The challenging journey
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7435677875137069057/" style="margin-left:6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16">
+</a>
+</li>
+
+<li>
+My Hacktoberfest 2020 Journey — Reflection
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7435677875137069057/" style="margin-left:6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16">
+</a>
+</li>
 
 </p>
 
