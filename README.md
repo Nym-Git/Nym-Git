@@ -3,8 +3,8 @@
 <!-- Banner -->
 <div style="background:#2d2d2d;padding:30px;border-radius:10px">
 
-<h1 style="margin:0;color:white">Front End Developer</h1>
-<p style="margin-top:5px;color:#9ca3af">Joseph Martin</p>
+<h1 style="margin:0;color:white">back End Developer</h1>
+<p style="margin-top:5px;color:#9ca3af">Nema Chandra Goswami</p>
 
 <div style="margin-top:15px">
 
@@ -20,8 +20,8 @@
 
 <br>
 
-<p>🌐 jfmartinz.dev</p>
-<p>✉ se.josephmartin@gmail.com</p>
+<p>🌐 nemagoswami.com</p>
+<p>✉ nemagoswami00@gmail.com</p>
 
 </div>
 
