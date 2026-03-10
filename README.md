@@ -89,9 +89,9 @@
 <h2>Latest Blog Posts</h2>
 
 <ul>
-<li>My Hacktoberfest 2024 Journey — Reflection</li>
-<li>Hacktoberfest 2024: Everything You Need to Know</li>
-<li>Beginner’s Guide to Open Source</li>
+<li>My Hacktoberfest 2020 Journey — Reflection</li>
+<li>Insurance broking platform 2023: The challenging journey</li>
+<li>Insuranceefficient award 2026: Grateful for moments, work is making an impact</li>
 </ul>
 
 <hr style="border-color:#30363d">
