@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="#">
+<a href="https://dev.to/nym">
 <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=devdotto">
 </a>
 
